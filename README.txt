@@ -1,0 +1,1 @@
+This project implements a modular shift scheduling system for airport ground handling staff. It combines flight schedules, worker role rules, and configurable constraints to generate, extend, and assign optimal shifts to workers using a greedy algorithm.
